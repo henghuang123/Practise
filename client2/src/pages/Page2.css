@@ -1,0 +1,20 @@
+
+a.page2-table-link {
+    color: rgb(0, 102, 204);
+
+}
+
+a.page2-table-link:visited {
+    color: rgb(0, 102, 204);
+
+}
+
+a.page2-table-link:hover {
+
+}
+
+
+a.page2-table-link:active {
+    color: rgb(238, 0, 0);
+}
+
